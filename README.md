@@ -1,6 +1,7 @@
-# flutter_hello_world
+# ThoroughTutoring
 
-A new Flutter application.
+A mobile app for connecting students with tutors.
+COS 495 Senior project.
 
 ## Getting Started
 
